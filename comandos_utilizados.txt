@@ -1,0 +1,8 @@
+#Foi utilizado esse comando abaixo para permitir escrita e execução do arquivo para o proprietário e de leitura para os outros.
+Comando: chmod 744 calculadora.sh
+
+#Utilizei o comando abaixo para verificar se as permissões ficaram corretas.
+Comando: ls -l
+
+#Utilizei esse comando para executar o arquivo shell script.
+Comando: ./calculadora.sh 
